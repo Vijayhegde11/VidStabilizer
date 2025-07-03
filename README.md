@@ -5,11 +5,13 @@ This project implements video stabilization using:
 - Lucas-Kanade Optical Flow
 - Motion smoothing and affine transformation
 
+# Example Videos
+
+Sample_Stabilize_Video.mp4
+
+
 ## Usage
 
 ```bash
 python main.py --input "video path" --show --output "save video name"
 
-## Example Videos
-
-Sample_Stabilize_Video.mp4
