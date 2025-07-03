@@ -8,4 +8,4 @@ This project implements video stabilization using:
 ## Usage
 
 ```bash
-python main.py --input input_video.mp4 --show --output output_stabilized.mp4
+python main.py --input "video path" --show --output "save video name"
